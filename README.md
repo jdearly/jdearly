@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Josh
-- I’m interested in algorithm design, languages, and performance optimization (learning). 
 - I’m currently building a programming language - [Lispy](https://github.com/jdearly/lispy)
 - I can be reached at josh@joshearly.xyz
 
