@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- I’m currently building a programming language - [Lispy](https://github.com/jdearly/lispy)
+- I’m currently building an algorithm visualizer tool with Go - [algo-visualizer](https://github.com/jdearly/algo-visualizer)
 - I can be reached at josh@joshearly.xyz
 
 <!---
